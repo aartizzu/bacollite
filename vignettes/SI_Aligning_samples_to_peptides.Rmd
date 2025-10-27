@@ -104,7 +104,7 @@ kable(dm_goat)
 ```
 
 
-## Generating deer peptides - hello . 
+## Generating deer peptides - toast . 
 
 This section shows how you would add another species set of markers, using peptides with the same collagen position and hydroxylation level as the sheep/cow/goat peptides shown above. Here we have a concatenated sequence for deer collagen 1A1 and 1A2 (**todo: note where this sequence has come from**):
 
